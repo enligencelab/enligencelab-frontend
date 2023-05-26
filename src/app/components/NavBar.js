@@ -17,7 +17,7 @@ export default function NavBar() {
             <div className={"hidden sm:items-center sm:grid-cols-5 sm:flex"}>
                 <Link href={"/about"} className={"hover:text-gray-600 mx-2"} >关于</Link>
                 <Link href={"/members"} className={"hover:text-gray-600 mx-2"}>成员</Link>
-                <Link href={"/patents"} className={"hover:text-gray-600 mx-2"}>专利</Link>
+                <Link href={"/patents"} className={"hover:text-gray-600 mx-2"}>知识产权</Link>
                 <Link href={"/achievements"} className={"hover:text-gray-600 mx-2"}>成就</Link>
                 <Link href={"https://github.com/enligencelab"} className={"hover:text-gray-600 mx-2"}>GitHub</Link>
             </div>

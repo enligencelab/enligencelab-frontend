@@ -70,7 +70,7 @@ export default function MobileNav() {
                     <Link href={"/members"}
                           className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>成员</Link>
                     <Link href={"/patents"}
-                          className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>专利</Link>
+                          className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>知识产权</Link>
                     <Link href={"/achievements"}
                           className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>成就</Link>
                     <Link href={"https://github.com/enligencelab"}
