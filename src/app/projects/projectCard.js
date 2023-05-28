@@ -24,7 +24,7 @@ export const ProjectCard = ({children}) => {
     return (
         <div
             onMouseMove={onMouseMove}
-            className="z-30 overflow-hidden relative duration-700 border rounded-xl hover:bg-zinc-800/10 group md:gap-8 hover:border-zinc-400/50 border-zinc-600 "
+            className="overflow-hidden relative duration-700 border rounded-xl hover:bg-zinc-800/10 group md:gap-8 hover:border-zinc-400/50 border-zinc-600"
         >
             <div className="pointer-events-none">
                 <div
