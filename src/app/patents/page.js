@@ -14,7 +14,7 @@ export default function Page() {
 
     return (
         <LayoutWrapper>
-            <div className={"flex flex-col items-center pb-20 sm:pb-0"}>
+            <div className={"flex flex-col sm:items-center pb-20 sm:pb-0"}>
                 <div className={"px-5 sm:px-0 sm:w-2/3 my-10 font-heiti font-bold text-3xl"}>
                     知识产权
                 </div>
