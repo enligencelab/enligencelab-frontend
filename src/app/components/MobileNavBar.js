@@ -73,6 +73,8 @@ export default function MobileNav() {
                           className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>知识产权</Link>
                     <Link href={"/achievements"}
                           className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>成就</Link>
+                    <Link href={"/projects"}
+                          className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>项目</Link>
                     <Link href={"https://github.com/enligencelab"}
                           className={"text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100 my-5 mx-10"}>GitHub</Link>
                 </nav>

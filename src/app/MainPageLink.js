@@ -20,6 +20,11 @@ const mainPageLink = [
         description: '立思实验室的人都喜欢用成果说话，进来看看吧'
     },
     {
+        title: '项目',
+        href: '/projects',
+        description: '立思实验室正在进行中的项目，可以点进来看一看有没有适合你的'
+    },
+    {
         title: 'GitHub',
         href: 'https://github.com/enligencelab',
         description: '这个链接通向立思实验室的GitHub账户，可以进来看看有哪些开源项目吸引到了你'

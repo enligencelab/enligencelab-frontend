@@ -19,6 +19,7 @@ export default function NavBar() {
                 <Link href={"/members"} className={"hover:text-gray-600 mx-2"}>成员</Link>
                 <Link href={"/patents"} className={"hover:text-gray-600 mx-2"}>知识产权</Link>
                 <Link href={"/achievements"} className={"hover:text-gray-600 mx-2"}>成就</Link>
+                <Link href={"/projects"} className={"hover:text-gray-600 mx-2"}>项目</Link>
                 <Link href={"https://github.com/enligencelab"} className={"hover:text-gray-600 mx-2"}>GitHub</Link>
             </div>
 
