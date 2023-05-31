@@ -18,6 +18,7 @@ export default function Page() {
                 <div className={"px-5 sm:px-0 sm:w-2/3 my-10 font-heiti font-bold text-3xl"}>
                     成就
                 </div>
+                <div className="w-full h-px bg-zinc-800 mb-10"/>
                 <ul className={"mx-5 sm:mx-0 sm:w-2/3 list-disc"}>
                     {sortedData.map((achievement, index) => {
                         return (
